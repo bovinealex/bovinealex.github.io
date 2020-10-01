@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### GIS Projects
 
-[Project 1 Title](/sample_page)
+[Species Richness](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
